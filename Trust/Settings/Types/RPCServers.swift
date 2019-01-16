@@ -94,7 +94,7 @@ enum RPCServer {
             case .main: return "https://mainnet.infura.io/llyrtzQ3YhkdESt2Fzrk"
             case .classic: return "https://web3.gastracker.io"
             case .callisto: return "https://clo-geth.0xinfra.com"
-            case .kovan: return "https://kovan.infura.io/llyrtzQ3YhkdESt2Fzrk"
+            case .kovan: return "https://kovan.infura.io/XyzEcUCJOQunP1PHWBJF"
             case .ropsten: return "https://ropsten.infura.io/llyrtzQ3YhkdESt2Fzrk"
             case .rinkeby: return "https://rinkeby.infura.io/llyrtzQ3YhkdESt2Fzrk"
             case .poa: return "https://poa.infura.io"
